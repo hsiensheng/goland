@@ -1,0 +1,2 @@
+# goland
+go example
